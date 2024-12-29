@@ -1,4 +1,4 @@
-# AIa
+#Layoff_worldwide_business_sector
 
-This data analysis dataset was from Geostat.ge, website based on analyzing and forecasting economic features of micro and macro aspects of the country.
 
+This data analysis dataset was from kaggle, this analysis was for understading the laid off count per year,country and industry.
